@@ -1,7 +1,7 @@
-- Hello I'm Jacob, I work in the AI sector as a Professional Services Engineer.
-- I am interested in data anlysis and machine learning. More specifically it's uses in visualization and prediction within scouting and player analysis for association football.
-- Currently, I am learning the fundamentals of data science, with ambitions to use that for a more back end intensive job working in football or football media.
-- I'm looking to collaborate on any projects that would involve that.
+- Hello! I'm Jacob, I work with data, primarly in the AI sector.
+- I am interested backend data transformation and front end web development.
+- I am also very passionate about association football (soccer) and insights teams can glean from the data that is employed within the game.
+- I'm open to collaboration on any projects involving that.
 - You can reach me here: jacobburke13@gmail.com
 
 <!---
